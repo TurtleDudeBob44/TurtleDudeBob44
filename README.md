@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TurtleV1
+- 👀 I’m interested in ... JavaScript
+- 🌱 I’m currently learning ... JavaScript
+- 📫 How to reach me ... Discord ---> TurtleV1#4444
